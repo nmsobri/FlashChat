@@ -18,4 +18,5 @@
         completions."
     </string>
     <string name="sample_message">Hello!</string>
+    <string name="login_progress">Login in progress</string>
 </resources>
